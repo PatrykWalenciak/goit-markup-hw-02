@@ -1,8 +1,9 @@
 body {
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 24px;
   color: #434455;
+  background-color: #ffffff;
 }
 
 nav li a {
@@ -31,4 +32,10 @@ address li a:focus {
 button {
   background-color: #4d5ae5;
   color: white;
+  cursor: pointer;
+}
+
+button:hover,
+button:focus {
+  background-color: #404bbf;
 }
