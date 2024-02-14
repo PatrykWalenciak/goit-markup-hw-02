@@ -41,6 +41,11 @@ address li a:focus {
   color: #4d5ae5;
 }
 
+h1 {
+  background-color: #2e2f42;
+  color: white;
+}
+
 button {
   background-color: #4d5ae5;
   color: white;
