@@ -38,6 +38,10 @@ address li {
   list-style-type: none;
 }
 
+#unactive-links a {
+  color: #434455;
+}
+
 #links-text {
   font-weight: 500;
   font-size: 16px;
@@ -51,12 +55,10 @@ address li {
   color: #404bbf;
 }
 
-header > nav > ul > li > a {
-  color: #2e2f42;
-}
 address {
   font-style: normal;
 }
+
 #address-text ul > li > a {
   font-size: 16px;
   font-style: normal;
@@ -65,13 +67,16 @@ address {
   color: #434455;
 }
 
-#section-a > h1 {
-  background-color: #2e2f42;
+#section-text {
   color: #ffffff;
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
+}
+
+#section-a {
+  background-color: #2e2f42;
 }
 
 #section-c > ul > li {
@@ -91,7 +96,8 @@ button {
 }
 
 button:hover,
-button:active {
+button:active,
+button:focus {
   background-color: #404bbf;
 }
 
@@ -108,7 +114,7 @@ footer > a {
   text-decoration: none;
 }
 
-footer > a > span {
+#studio-text {
   color: #f4f4fd;
 }
 
