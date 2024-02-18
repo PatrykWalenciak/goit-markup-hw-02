@@ -118,7 +118,7 @@ footer > a {
   color: #f4f4fd;
 }
 
-#footer-text {
+footer > p {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
