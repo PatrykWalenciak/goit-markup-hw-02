@@ -1,1 +1,24 @@
+body {
+  font-family: "Roboto";
+}
 
+#logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+
+#studio {
+  color: #2e2f42;
+}
+
+nav li a,
+header a,
+ul li {
+  text-decoration: none;
+  list-style-type: none;
+}
