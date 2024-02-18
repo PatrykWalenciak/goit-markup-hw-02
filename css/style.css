@@ -77,7 +77,7 @@ button:active {
   background-color: #404bbf;
 }
 
-#studio-logo {
+footer > a > span {
   color: #f4f4fd;
 }
 
