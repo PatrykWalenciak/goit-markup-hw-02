@@ -6,7 +6,7 @@ body {
   background-color: #ffffff;
 }
 
-.logo,
+#logo,
 header > a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -17,9 +17,19 @@ header > a {
   text-decoration: none;
   color: #4d5ae5;
 }
+#studio {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #434455;
+}
 
-nav li a,
-ul {
+nav ul a,
+li {
   color: #434455;
   text-decoration: none;
   list-style-type: none;
