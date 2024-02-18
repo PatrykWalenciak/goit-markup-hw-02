@@ -73,15 +73,6 @@ button:active {
   background-color: #404bbf;
 }
 
-#section-a {
-  background-color: #2e2f42;
-  color: #ffffff;
-  font-size: 56px;
-  line-height: 1.07;
-  text-align: center;
-  letter-spacing: 0.02em;
-}
-
 #studio-logo {
   color: #f4f4fd;
 }
@@ -97,4 +88,24 @@ footer > a {
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
+}
+
+footer p {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
+
+#section-a {
+  background-color: #2e2f42;
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+#section-c > ul > li {
+  text-decoration: none;
+  list-style-type: none;
 }
