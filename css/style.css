@@ -18,9 +18,11 @@ header > a {
   color: #4d5ae5;
 }
 
-nav li a {
+nav li a,
+ul {
   color: #434455;
   text-decoration: none;
+  list-style-type: none;
 }
 
 nav li a:hover {
@@ -29,6 +31,14 @@ nav li a:hover {
 
 nav li a:active {
   color: #404bbf;
+}
+
+#menu-links {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 
 address li a {
