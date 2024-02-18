@@ -114,7 +114,7 @@ footer > a {
   text-decoration: none;
 }
 
-footer > span {
+footer > a > span {
   color: #f4f4fd;
 }
 
