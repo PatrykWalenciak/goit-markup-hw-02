@@ -29,12 +29,16 @@ span {
   color: #2e2f42;
   text-decoration: none;
 }
+
 nav li a,
 header a,
 nav ul li,
 address li {
   text-decoration: none;
   list-style-type: none;
+}
+
+#links-text {
 }
 
 #address-text li a:hover,
@@ -90,7 +94,7 @@ footer > a {
   text-decoration: none;
 }
 
-footer p {
+footer > p {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
