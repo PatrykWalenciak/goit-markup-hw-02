@@ -38,7 +38,7 @@ address li {
   list-style-type: none;
 }
 
-#unactive-links ul > li > a {
+#unactive-links ul > li {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -51,7 +51,7 @@ address li {
   color: #404bbf;
 }
 
-#links-text ul > li > a {
+#links-text ul > li {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
