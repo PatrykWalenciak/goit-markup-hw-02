@@ -46,7 +46,7 @@ address li {
   color: #434455;
 }
 
-#links-text {
+header > nav > ul > li {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
