@@ -46,7 +46,7 @@ address li {
   color: #434455;
 }
 
-header > nav > ul > li {
+#links-text {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -54,7 +54,7 @@ header > nav > ul > li {
   color: #2e2f42;
 }
 
-#links-text:hover {
+#links-text:focus {
   color: #404bbf;
 }
 
