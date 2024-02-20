@@ -46,6 +46,11 @@ address li {
   color: #434455;
 }
 
+#unactuve-links:hover,
+#unactive-links:focus {
+  color: #404bbf;
+}
+
 #links-text {
   font-weight: 500;
   font-size: 16px;
@@ -54,7 +59,8 @@ address li {
   color: #2e2f42;
 }
 
-#links-text:focus {
+#links-text:focus,
+#links-text:hover {
   color: #404bbf;
 }
 
