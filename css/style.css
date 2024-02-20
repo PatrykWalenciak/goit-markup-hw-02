@@ -94,7 +94,8 @@ address {
   letter-spacing: 0.02em;
 }
 
-#section-a {
+#section-a,
+#section-a h1 {
   background-color: #2e2f42;
 }
 
