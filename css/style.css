@@ -94,13 +94,18 @@ address {
   letter-spacing: 0.02em;
 }
 
-#section-a,
-#section-a h1 {
+section h1,
+#section-a {
+  color: #ffffff;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
   background-color: #2e2f42;
 }
 
-.section-b,
-.section-b h2 {
+#section-b,
+#section-b section > h2 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -156,4 +161,14 @@ footer > p {
   line-height: 1.5;
   color: #f4f4fd;
   letter-spacing: 0.02em;
+}
+
+#section-c,
+#section-c h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
 }
