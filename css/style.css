@@ -107,6 +107,10 @@ address {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+#section-b p {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
 
 #section-c > ul > li {
   text-decoration: none;
