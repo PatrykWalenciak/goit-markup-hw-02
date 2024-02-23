@@ -51,17 +51,12 @@ address li {
   color: #404bbf;
 }
 
-#links-text ul > li {
+nav ul > li {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-}
-
-#links-text:focus,
-#links-text:hover {
-  color: #404bbf;
 }
 
 nav > ul > li > a:hover,
@@ -70,7 +65,7 @@ nav > ul > li > a:active {
 }
 
 nav ul > li a:hover,
-nav ul > li a:active {
+nav ul > li a:focus {
   color: #404bbf;
 }
 
