@@ -69,8 +69,8 @@ nav > ul > li > a:active {
   color: #404bbf;
 }
 
-#address-text li a:hover,
-#address-text li a:active {
+nav ul > li a:hover,
+nav ul > li a:active {
   color: #404bbf;
 }
 
@@ -86,9 +86,8 @@ address ul > li {
   color: #434455;
 }
 
-address ul > li:focus,
 address ul > li:active,
-address ul > li:hover {
+address ul > li:focus {
   color: #404bbf;
 }
 
