@@ -46,7 +46,7 @@ address li {
   color: #434455;
 }
 
-#unactuve-links:hover,
+#unactive-links:hover,
 #unactive-links:focus {
   color: #404bbf;
 }
