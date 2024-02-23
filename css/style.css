@@ -86,6 +86,11 @@ address ul > li {
   color: #434455;
 }
 
+address ul > li:hover,
+address ul > li:active {
+  color: #404bbf;
+}
+
 #section-text {
   color: #ffffff;
   font-size: 56px;
