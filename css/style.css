@@ -47,17 +47,17 @@ address li {
   list-style-type: none;
 }
 
-.unactive-links ul > li {
+.links-text:hover,
+.links-text:focus {
+  color: #404bbf;
+}
+
+.links-text {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
-}
-
-.unactive-links:hover,
-.unactive-links:focus {
-  color: #404bbf;
+  color: #2e2f42;
 }
 
 nav > a {
