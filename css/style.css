@@ -87,7 +87,8 @@ address ul > li {
 }
 
 address ul > li:focus,
-address ul > li:active {
+address ul > li:active,
+address ul > li:hover {
   color: #404bbf;
 }
 
