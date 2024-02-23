@@ -73,7 +73,7 @@ address {
   font-style: normal;
 }
 
-address ul > li {
+address ul > li > a {
   font-size: 16px;
   font-style: normal;
   line-height: 1.5;
@@ -81,8 +81,8 @@ address ul > li {
   color: #434455;
 }
 
-address ul > li:active,
-address ul > li:focus {
+address ul > li > a:active,
+address ul > li > a:focus {
   color: #404bbf;
 }
 
