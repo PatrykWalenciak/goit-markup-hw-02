@@ -15,6 +15,15 @@ header > nav > a {
   text-transform: uppercase;
 }
 
+#our-portfolio > h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
 #logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -194,15 +203,6 @@ footer > p {
 
 #section-c,
 #section-c h2 {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
-  color: #2e2f42;
-}
-
-#our-portfolio > h2 {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
