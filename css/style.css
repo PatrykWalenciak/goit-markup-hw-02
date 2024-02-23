@@ -137,7 +137,7 @@ section > #h2-text {
   color: #2e2f42;
 }
 
-#img-text {
+#our-portfolio > h3 {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -194,6 +194,15 @@ footer > p {
 
 #section-c,
 #section-c h2 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+
+#h2-text {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
