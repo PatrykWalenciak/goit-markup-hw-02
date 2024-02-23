@@ -51,7 +51,7 @@ address li {
   color: #404bbf;
 }
 
-nav ul > li > a {
+nav > a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -82,7 +82,8 @@ address ul > li > a {
 }
 
 address ul > li > a:active,
-address ul > li > a:focus {
+address ul > li > a:focus,
+address ul > li > a:hover {
   color: #404bbf;
 }
 
