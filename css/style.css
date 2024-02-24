@@ -178,14 +178,17 @@ footer > p {
   letter-spacing: 0.02em;
 }
 
-.section-c,
-.section-c h2 {
+.section-c .h2-text {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+}
+
+.section-c {
+  background-color: #f4f4fd;
 }
 
 .portfolio-section {
@@ -217,14 +220,5 @@ footer > p {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
-}
-
-.h2-text {
-  font-size: 36px;
-  line-height: 1.11;
-  text-align: center;
-  letter-spacing: 0.02em;
-  text-transform: capitalize;
   color: #2e2f42;
 }
