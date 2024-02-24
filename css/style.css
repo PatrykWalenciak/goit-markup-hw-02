@@ -179,6 +179,7 @@ footer > p {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  background-color: #f4f4fd;
 }
 .section-list {
   background-color: #ffffff;
