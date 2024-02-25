@@ -66,11 +66,6 @@ nav > ul > li > a:active {
   color: #404bbf;
 }
 
-nav ul > li a:hover,
-nav ul > li a:focus {
-  color: #404bbf;
-}
-
 address {
   font-style: normal;
 }
