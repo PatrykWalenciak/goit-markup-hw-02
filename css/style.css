@@ -52,7 +52,7 @@ address li {
   color: #404bbf;
 }
 
-.links-text {
+nav > a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
