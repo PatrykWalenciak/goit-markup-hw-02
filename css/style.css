@@ -56,13 +56,9 @@ address li {
   list-style-type: none;
 }
 
-.links-text:hover,
-.links-text:focus {
-  color: #404bbf;
-}
-
-.links-text > a:hover,
-.links-text > a:active {
+.links-text a:hover,
+.links-text a:focus,
+.links-text a:active {
   color: #404bbf;
 }
 
