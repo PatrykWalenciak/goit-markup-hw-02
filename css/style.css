@@ -61,8 +61,8 @@ address li {
   color: #404bbf;
 }
 
-nav > ul > li > a:hover,
-nav > ul > li > a:active {
+.links-text > a:hover,
+.links-text > a:active {
   color: #404bbf;
 }
 
