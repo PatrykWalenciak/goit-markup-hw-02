@@ -26,8 +26,8 @@ span {
   color: #2e2f42;
 }
 
-.link-nav:focus,
-.link-nav:hover,
-.link-nav:active {
+.link-nav > a:focus,
+.link-nav > a:hover,
+.link-nav > a:active {
   color: #404bbf;
 }
