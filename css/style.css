@@ -31,3 +31,27 @@ span {
 .link-nav > a:active {
   color: #404bbf;
 }
+
+.address-text {
+  font-style: normal;
+}
+
+.address-section {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.address-section > a:focus,
+.address-section > a:hover,
+.address-section > a:active {
+  color: #404bbf;
+}
+
+.address-text > ul > li,
+.link-nav,
+a {
+  text-decoration: none;
+  list-style-type: none;
+}
