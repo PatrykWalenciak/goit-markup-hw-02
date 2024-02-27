@@ -18,7 +18,7 @@ span {
   color: #2e2f42;
 }
 
-.link-nav {
+.link-nav > a {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -27,6 +27,7 @@ span {
 }
 
 .link-nav:focus,
+.link-nav:hover,
 .link-nav:active {
   color: #404bbf;
 }
